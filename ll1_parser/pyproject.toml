@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "ll-parser"
+name = "ll1-parser"
 version = "0.1.0"
 description = ""
 authors = ["asolana <asolana@deloitte.es>"]
 readme = "README.md"
-packages = [{include = "ll_parser"}]
+packages = [{include = "ll1_parser"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"

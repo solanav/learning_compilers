@@ -8,4 +8,4 @@
     - [Deterministic pushdown automaton](https://en.wikipedia.org/wiki/Deterministic_pushdown_automaton)
     - [LL Parser](https://en.wikipedia.org/wiki/LL_parser)
 
-2. Wrote `ll_parser` following the wikipedia article instructions
+2. Wrote `ll1_parser` following the wikipedia article instructions
